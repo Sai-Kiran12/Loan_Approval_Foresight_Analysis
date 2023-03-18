@@ -1,2 +1,2 @@
-# Loan_Approval_Foresight_Analysis
-This project involves building a machine learning model that can predict whether a loan application will be approved or not based on various factors such as applicant's income, credit history, loan amount, etc.
+# Loan_Approval_Foresight_Analysis Using Machine Learning
+This project involves building a machine learning model that can predict whether a loan application will be approved or not based on various factors such as applicant's income, credit history, loan amount, etc.  The project will require data cleaning, exploratory data analysis, feature engineering, and model building using popular machine learning algorithms such as logistic regression, decision trees, and random forests. The project can be extended to include a web interface where users can input their loan application details and get an instant prediction on the likelihood of their application being approved.
